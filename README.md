@@ -1,2 +1,2 @@
-# demo
-This is a demo repository
+# notes
+This is my notes repository
