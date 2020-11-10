@@ -4,7 +4,7 @@ If it's somewhere like
 
   C:\Users\JACOBO>
 
-  type # **cd ..** 
+  type **cd ..** 
   
     C:\Users\JACOBO> cd ..
     C:\Users> cd ..
